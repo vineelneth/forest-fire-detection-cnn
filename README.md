@@ -1,4 +1,4 @@
-# Fire Detection CNN
+# Forest Fire Detection CNN
 
 A convolutional neural network that classifies images as **fire** or **no fire** with ~95%+ validation accuracy, trained on a balanced dataset of 1,520 images.
 
