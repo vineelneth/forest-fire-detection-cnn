@@ -1,0 +1,24 @@
+# Dataset (download separately — see README)
+dataset/
+
+# Trained weights (regenerate with train.py)
+*.pth
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
